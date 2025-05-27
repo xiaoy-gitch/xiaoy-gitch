@@ -19,8 +19,6 @@
   <div>
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=xiaoy-gitch&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@xiaoy-gitch"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
 
