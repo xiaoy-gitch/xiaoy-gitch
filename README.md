@@ -45,7 +45,7 @@
       </picture>
   </tr>
 </table>
-
+<div align="center" >
 <!-- GitHub 奖杯🏆 -->
 <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=xiaoy-gitch&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
@@ -86,6 +86,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xiaoy-gitch/xiaoy-gitch/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/xiaoy-gitch/xiaoy-gitch/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture> -->
-
+</div>
 </div>
 
