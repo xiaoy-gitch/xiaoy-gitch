@@ -89,7 +89,8 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/99effce529ae32271bee56287f234f48f631647d.svg " />
+![Alt](https://repobeats.axiom.co/api/embed/99effce529ae32271bee56287f234f48f631647d.svg "Repobeats analytics image")
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
